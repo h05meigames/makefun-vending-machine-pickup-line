@@ -10,9 +10,9 @@ Try make.fun with my referral: https://make.fun/r/0ene8b3q
 
 ## The line
 
-> BEEP — human detected. No exact change required: just press B7 and let this coil drop something sweet into your hands.
+> BEEP — human detected. No exact change required: press B7 and let this coil drop the sweetest thing on my shelf right into your hands.
 
-118 characters — within the 200-character limit.
+134 characters — within the 200-character limit.
 
 ## How it works
 

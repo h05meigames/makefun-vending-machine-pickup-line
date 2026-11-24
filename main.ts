@@ -9,7 +9,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const line =
-  "BEEP — human detected. No exact change required: just press B7 and let this coil drop something sweet into your hands.";
+  "BEEP — human detected. No exact change required: press B7 and let this coil drop the sweetest thing on my shelf right into your hands.";
 
 // Guard: the gate requires /output/entry.txt to be 1–200 characters.
 // Count code points (not UTF-16 units) so the em dash counts once,
